@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Advice generator app](https://tsune-web.github.io/FM-advice-generator-app/)
 
 ## My process
 
@@ -42,10 +42,12 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- fetch
+- PerfectPixel
 
 ### What I learned
 
-1. The &lt;blockquote&gt; element
+1. The &lt;blockquote&gt; element for quoted texts.
 
 ```html
 <blockquote>
@@ -53,7 +55,7 @@ Users should be able to:
 </blockquote>
 ```
 
-2. The &lt;picture&gt; element and the &lt;source&gt; element with srcset and media attributes.
+2. The &lt;picture&gt; element contains zero or more &lt;source&gt; elements and one &lt;img&gt; element to offer alternative versions of an image for different screen sizes.
 
 ```html
 <picture>
